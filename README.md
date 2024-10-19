@@ -49,7 +49,7 @@ The app will be available at `http://localhost:3000`.
 
 ## 🛠 Technologies Used
 
-| Technology   | Logo |
+| Technology   | Version |
 |--------------|------|
 | **React**    | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) |
 | **Quill.js** | ![Quill.js](https://img.shields.io/badge/Quill.js-333333?style=flat&logo=quill&logoColor=white) |
